@@ -23,3 +23,11 @@
 **/Entity/*~
 ###< Backup entities generated with doctrine:generate:entities command ###
 
+###> lexik/jwt-authentication-bundle ###
+/config/jwt/*.pem
+###< lexik/jwt-authentication-bundle ###
+
+###> php_cs.cache ###
+/.php_cs.cache
+###< php_cs.cache ###
+
